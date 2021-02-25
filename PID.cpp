@@ -1,4 +1,4 @@
-//An Example PID Function
+//An Example PID Function which would Drive the Robot Forward or Backwards
 void DriveDistance(float distance, float maxTime)
   {
     //Reset the Rotation of Both Encoders
